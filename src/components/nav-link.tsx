@@ -1,4 +1,3 @@
-import path from 'path'
 import { Link, LinkProps, useLocation } from 'react-router-dom'
 
 type NavLinkProps = LinkProps
